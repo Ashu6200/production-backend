@@ -1,0 +1,4 @@
+{
+    "ext": ".ts",
+    "igonre": ["dist", "node_modules"]
+}
